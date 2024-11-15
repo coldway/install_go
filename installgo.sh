@@ -84,6 +84,7 @@ else
   fi
 fi
 export PATH=$HOME/usr/local/bin:$PATH
+export GOPROXY=http://goproxy.p1staff.com,https://goproxy.cn,https://goproxy.io,direct
 echo "安装完毕"
 echo $PATH
 echo $(which go)
