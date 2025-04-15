@@ -6,3 +6,6 @@
 ## 首次安装：
     若有/usr/local/bin权限，安装到/usr/local/bin/go下
     否则：安装到 $HOME/usr/local/bin/go 下
+
+# 使用说明
+## sh installgo.sh 1.23.2
